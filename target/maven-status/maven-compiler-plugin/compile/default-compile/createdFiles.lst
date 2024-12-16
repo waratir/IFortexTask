@@ -1,0 +1,11 @@
+com\ifortex\bookservice\model\Member.class
+com\ifortex\bookservice\controller\BookController.class
+com\ifortex\bookservice\dto\SearchCriteria.class
+com\ifortex\bookservice\service\impl\ESBookServiceImpl.class
+com\ifortex\bookservice\dto\SearchCriteria$SearchCriteriaBuilder.class
+com\ifortex\bookservice\model\Book.class
+com\ifortex\bookservice\service\impl\ESMemberServiceImpl.class
+com\ifortex\bookservice\service\BookService.class
+com\ifortex\bookservice\BookServiceApplication.class
+com\ifortex\bookservice\controller\MemberController.class
+com\ifortex\bookservice\service\MemberService.class
